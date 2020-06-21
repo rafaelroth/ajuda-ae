@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'Font Name';
+    src: local('Font Name'), local('FontName');
+    url: ('./MontserratRegular.ttf') format('ttf');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Font Name';
+    src: local('Font Name'), local('FontName');
+    url: ('./MontserratBold.ttf') format('ttf');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Font Name';
+    src: local('Font Name'), local('FontName');
+    url: ('./MontserratExtraBold.ttf') format('ttf');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Font Name';
+    src: local('Font Name'), local('FontName');
+    url: ('./MontserratLight.ttf') format('ttf');
+    font-weight: 300;
+    font-style: normal;
+}
