@@ -23,6 +23,8 @@ const InputStyle = styled.div`
 
     ::placeholder {
       color: #082d0f;
+      font-family: "Montserrat";
+      font-weight: 400;
     }
   }
 `;
@@ -40,6 +42,7 @@ const Input = React.forwardRef(
         name="Input de Busca"
       />
       <img
+        alt="" // @TODO: acessibilidade
         style={{
           backgroundColor: "red",
           width: "28px",
